@@ -30,16 +30,20 @@
 ---
 
 <!-- ====================== ABOUT ME ====================== -->
+
 ### :man_technologist: About Me
 
-I'm an **Electrical Engineer** with a passion for crafting innovative hardware solutions and diving deep into the world of technology. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> from Kenya.
+I'm an **Electrical Engineer** passionate about building robust hardware and software systems that bridge the physical and digital worlds. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> from Kenya.
 
-- :telescope: I thrive on designing and building hardware systems, from microcontrollers to complex embedded systems. I love working with low-level interfaces using **C** and **C++** to make hardware perform its best.
-- :seedling: Beyond hardware, I delve into the fascinating realm of **machine learning** — building models that learn and adapt, making electronic devices smarter and more capable.
-- :zap: In my free time, I design **GUIs** and tinker with **microcontrollers**.
-- :clock1230: Track my coding time: [![wakatime](https://wakatime.com/badge/user/018eae89-320d-4657-a0fd-10051cf5cb87.svg)](https://wakatime.com/@018eae89-320d-4657-a0fd-10051cf5cb87)
+* :telescope: I specialize in designing and developing **embedded systems** — from custom PCBs and microcontroller-based designs to scalable industrial control and automation platforms. I enjoy working close to the hardware using **C**, **C++**, and low-level communication interfaces to build reliable, high-performance systems.
+* :computer: I’m deeply interested in **Embedded Linux** and modern embedded software architecture, including device interfacing, networking, MQTT-based systems, Ethernet communication, and portable firmware development across platforms such as **ESP32** and **STM32** using tools like **Zephyr RTOS**.
+* :gear: I enjoy building complete engineering workflows that combine firmware, hardware, backend connectivity, and desktop tooling — including **Python-based GUIs**, real-time data logging systems, automation tools, and developer workflows.
+* :seedling: Beyond embedded engineering, I explore **machine learning** and intelligent systems that make devices more adaptive, autonomous, and data-driven.
+* :zap: In my free time, I experiment with **electronics**, refine development pipelines, explore game development concepts, and prototype new ideas involving hardware, networking, and software integration.
+* :clock1230: Track my coding time: [![wakatime](https://wakatime.com/badge/user/018eae89-320d-4657-a0fd-10051cf5cb87.svg)](https://wakatime.com/@018eae89-320d-4657-a0fd-10051cf5cb87)
 
 ---
+
 
 <!-- ====================== LANGUAGES & TOOLS ====================== -->
 ### :hammer_and_wrench: Languages and Tools
